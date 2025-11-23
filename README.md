@@ -8,7 +8,7 @@
 This tool sets out to create a framework to easily create simulations for planetary motion.
 
 ## Report and Examples
-The "N Body Problem Report.pdf" is a mock paper I wrote for this tool. Check out the Examples_Videos folder to see some pre-rendered examples.
+The "N Body Problem Report.pdf" is a mock paper I wrote for this tool. Check out the Example_Videos folder to see some pre-rendered examples.
 
 ## Using the Tool
 ### Creating Instances
