@@ -26,7 +26,7 @@ class CelestialBody:
     self.__color = color # Storing color for animation
     
     self.bodyNum = len(CelestialBody.bodies) # Setting body number in array containing all bodies
-
+  
   # Getters
   def getPos(self):
     return self.__pos
@@ -116,7 +116,7 @@ class CelestialBody:
     for i in range(len(CelestialBody.bodies)):
       CelestialBody.bodies[i].addPos((1/6) * div @ KR[:,i] * dt) # Add step
       CelestialBody.bodies[i].addVel((1/6) * div @ KV[:,i] * dt) # Add step
-
+    
   def createSim(sim_time, dt):
     """Get positions of bodies over a given time interval using RK4 algorithm
     

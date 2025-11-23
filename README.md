@@ -1,7 +1,7 @@
 # The N-Body Simulator
 <p align="center">
   <a>
-    <img width = 800, src ="https://github.com/cfelipesandoval/N-Body_Simulator/blob/b9806bebc83f8f4791950000dae5f802254cf59b/Example_Videos/OrbitingFig8.gif"
+    <img width = 800, src ="https://github.com/cfelipesandoval/N-Body_Simulator_Python/blob/b9806bebc83f8f4791950000dae5f802254cf59b/Example_Videos/OrbitingFig8.gif"
   </a>
 </p>
 

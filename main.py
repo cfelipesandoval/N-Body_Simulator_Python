@@ -1,6 +1,6 @@
 from definitions import *
 from init import *
-# from includes.manimScenes import * # Uncomment this with manim installed
+from includes.manimScenes import * # Uncomment this with manim installed
 
 import matplotlib.pyplot as plt
 
@@ -86,7 +86,7 @@ def main():
   # run_time = 5 # Time simulation plays over
   # dt = 0.01 # Time step
   
-  # TwoBP().construct(sim_time, dt, run_time)
+  TwoBP().construct(sim_time, dt, run_time)
   # SolarSystem().construct(sim_time, dt, run_time)
   # Figure8().construct(sim_time, dt, run_time)
   # OrbitingFig8().construct(sim_time, dt, run_time)
